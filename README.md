@@ -5,8 +5,6 @@ A calm, atmospheric mobile and web game. On festival night, a tiny lantern spiri
 Play it: https://lantern-drift-game.netlify.app
 Demo video: _(add your video link)_
 
-![Lantern Drift gameplay](docs/screenshots/gameplay.png)
-
 ## The idea
 
 - Draw the wind. Drag a finger or the mouse to draw short wind trails. The lantern is pushed along them, so it feels like drifting, not driving.
