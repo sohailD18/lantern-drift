@@ -1,17 +1,17 @@
 # Lantern Drift
 
-A calm, atmospheric mobile and web game. On festival night, a tiny lantern spirit drifts into a dark, wild sky. You don't steer it. You **draw the wind**, and its glow is both your health and your vision.
+A calm, atmospheric mobile and web game. On festival night, a tiny lantern spirit drifts into a dark, wild sky. You don't steer it. You draw the wind, and its glow is both your health and your vision.
 
-**Play it:** _(add your hosted link)_
-**Demo video:** _(add your video link)_
+Play it: https://lantern-drift-game.netlify.app
+Demo video: _(add your video link)_
 
 ![Lantern Drift gameplay](docs/screenshots/gameplay.png)
 
 ## The idea
 
-- **Draw the wind.** Drag a finger or the mouse to draw short wind trails. The lantern is pushed along them, so it feels like drifting, not driving.
-- **Light is everything.** The glow is both health and vision. The world outside it is dark. Fireflies grow the light, and hazards shrink it. If it reaches zero, the lantern fades out.
-- **One new rule per level.** Each of the three levels changes how you think, not only how fast you react.
+- Draw the wind. Drag a finger or the mouse to draw short wind trails. The lantern is pushed along them, so it feels like drifting, not driving.
+- Light is everything. The glow is both health and vision. The world outside it is dark. Fireflies grow the light, and hazards shrink it. If it reaches zero, the lantern fades out.
+- One new rule per level. Each of the three levels changes how you think, not only how fast you react.
 
 ## How to play
 
@@ -22,7 +22,7 @@ A calm, atmospheric mobile and web game. On festival night, a tiny lantern spiri
 | Pause | Tap the II button | P or Esc |
 | Mute | Tap the speaker | M |
 
-**Goal:** guide the lantern up to the golden beacon at the top of each level.
+Goal: guide the lantern up to the golden beacon at the top of each level.
 
 ## Levels
 
